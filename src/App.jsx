@@ -503,3 +503,5 @@ export default function BackroomsGame() {
     </div>
   );
 }
+
+<div className="p-4 text-3xl text-red-500">Tailwind OK</div>
